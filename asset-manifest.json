@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/legistrack/static/css/main.e6c13ad2.css",
+    "main.js": "/legistrack/static/js/main.606c1d6a.js",
+    "static/js/453.42f980b8.chunk.js": "/legistrack/static/js/453.42f980b8.chunk.js",
+    "index.html": "/legistrack/index.html",
+    "main.e6c13ad2.css.map": "/legistrack/static/css/main.e6c13ad2.css.map",
+    "main.606c1d6a.js.map": "/legistrack/static/js/main.606c1d6a.js.map",
+    "453.42f980b8.chunk.js.map": "/legistrack/static/js/453.42f980b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.606c1d6a.js"
+  ]
+}
