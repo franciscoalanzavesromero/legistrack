@@ -1,15 +1,27 @@
 {
   "files": {
-    "main.css": "/legistrack/static/css/main.e6c13ad2.css",
-    "main.js": "/legistrack/static/js/main.fc746a27.js",
+    "main.css": "/legistrack/static/css/main.14e28877.css",
+    "main.js": "/legistrack/static/js/main.49d981bb.js",
     "static/js/453.42f980b8.chunk.js": "/legistrack/static/js/453.42f980b8.chunk.js",
+    "static/media/post-landscape-3.jpg": "/legistrack/static/media/post-landscape-3.d70f55d7799beb931c09.jpg",
+    "static/media/bootstrap-icons.woff?": "/legistrack/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/legistrack/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/post-landscape-1.jpg": "/legistrack/static/media/post-landscape-1.0738b8f1e32cf1855d2f.jpg",
+    "static/media/post-landscape-6.jpg": "/legistrack/static/media/post-landscape-6.d87827d7db15fb9c9c62.jpg",
+    "static/media/post-landscape-8.jpg": "/legistrack/static/media/post-landscape-8.1734c08c2910262a0802.jpg",
+    "static/media/post-landscape-2.jpg": "/legistrack/static/media/post-landscape-2.683452fe6565fab5f146.jpg",
+    "static/media/boe-01.jpg": "/legistrack/static/media/boe-01.3774ec54100e87c1bc80.jpg",
+    "static/media/post-landscape-5.jpg": "/legistrack/static/media/post-landscape-5.a8942c1d1f8150392e2b.jpg",
+    "static/media/post-landscape-7.jpg": "/legistrack/static/media/post-landscape-7.b5f57f7e4d23bb20189e.jpg",
+    "static/media/person-1.jpg": "/legistrack/static/media/person-1.029a0623bde38f7f8091.jpg",
+    "static/media/person-2.jpg": "/legistrack/static/media/person-2.dc87ae92f6a19f4e9aa2.jpg",
     "index.html": "/legistrack/index.html",
-    "main.e6c13ad2.css.map": "/legistrack/static/css/main.e6c13ad2.css.map",
-    "main.fc746a27.js.map": "/legistrack/static/js/main.fc746a27.js.map",
+    "main.14e28877.css.map": "/legistrack/static/css/main.14e28877.css.map",
+    "main.49d981bb.js.map": "/legistrack/static/js/main.49d981bb.js.map",
     "453.42f980b8.chunk.js.map": "/legistrack/static/js/453.42f980b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.fc746a27.js"
+    "static/css/main.14e28877.css",
+    "static/js/main.49d981bb.js"
   ]
 }
