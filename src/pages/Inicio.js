@@ -1,23 +1,24 @@
-import { useEffect } from 'react';
-import Header from '../components/Header';
-import TrendingCategorySection from '../components/TrendingCategorySection';
-import CultureCategorySection from '../components/CultureCategorySection';
-import ScrollTop from '../components/ScrollTop';
-import Footer from '../components/Footer';
-import AOS from 'aos';
-import 'aos/dist/aos.css';
+import { useEffect } from "react";
+import Header from "../components/Header";
+import TrendingCategorySection from "../components/TrendingCategorySection";
+import CultureCategorySection from "../components/CultureCategorySection";
+import ScrollTop from "../components/ScrollTop";
+import Footer from "../components/Footer";
+import ExternalScripts from "../components/ExternalScripts";
+import AOS from "aos";
+import "aos/dist/aos.css";
 
 export default function Inicio() {
   useEffect(() => {
-    document.body.classList.add('index-page');
+    document.body.classList.add("index-page");
     // Inicializar AOS
     AOS.init({
       duration: 1000,
-      once: true
+      once: true,
     });
-    
+
     return () => {
-      document.body.classList.remove('index-page');
+      document.body.classList.remove("index-page");
     };
   }, []);
 
@@ -30,6 +31,7 @@ export default function Inicio() {
         <Footer />
         <ScrollTop />
       </main>
+      <ExternalScripts />
     </>
   );
 }
