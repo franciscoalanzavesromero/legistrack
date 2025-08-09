@@ -2,6 +2,7 @@ import { useEffect } from "react";
 import Header from "../components/Header";
 import TrendingCategorySection from "../components/TrendingCategorySection";
 import CultureCategorySection from "../components/CultureCategorySection";
+import BOELawsBootstrap from '../components/BOELawsBootstrap'
 import ScrollTop from "../components/ScrollTop";
 import Footer from "../components/Footer";
 import ExternalScripts from "../components/ExternalScripts";
@@ -26,8 +27,7 @@ export default function Inicio() {
     <>
       <Header />
       <main>
-        <TrendingCategorySection />
-        <CultureCategorySection />
+        <BOELawsBootstrap />
         <Footer />
         <ScrollTop />
       </main>
