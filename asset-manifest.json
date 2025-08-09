@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/legistrack/static/css/main.378c3f7d.css",
-    "main.js": "/legistrack/static/js/main.e1ba17ab.js",
+    "main.js": "/legistrack/static/js/main.f83e057d.js",
     "static/js/453.42f980b8.chunk.js": "/legistrack/static/js/453.42f980b8.chunk.js",
     "static/media/post-landscape-3.jpg": "/legistrack/static/media/post-landscape-3.d70f55d7799beb931c09.jpg",
     "static/media/bootstrap-icons.woff?": "/legistrack/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
@@ -17,11 +17,11 @@
     "static/media/person-2.jpg": "/legistrack/static/media/person-2.dc87ae92f6a19f4e9aa2.jpg",
     "index.html": "/legistrack/index.html",
     "main.378c3f7d.css.map": "/legistrack/static/css/main.378c3f7d.css.map",
-    "main.e1ba17ab.js.map": "/legistrack/static/js/main.e1ba17ab.js.map",
+    "main.f83e057d.js.map": "/legistrack/static/js/main.f83e057d.js.map",
     "453.42f980b8.chunk.js.map": "/legistrack/static/js/453.42f980b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.378c3f7d.css",
-    "static/js/main.e1ba17ab.js"
+    "static/js/main.f83e057d.js"
   ]
 }
